@@ -283,7 +283,7 @@ The combined effect is a serious confidentiality breach with potential privacy, 
 
 ##  Full report
 
-[Mediroza Penetration Testing Report.pdf](https://github.com/user-attachments/files/32076421/Mediroza.Penetration.Testing.Report.pdf)
+[Mediroza Penetration Testing Report.pdf](
 
 ##  Lessons learned
 
